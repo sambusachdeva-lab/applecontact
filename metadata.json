@@ -1,0 +1,6 @@
+{
+  "name": "Apple Contact",
+  "description": "The official Apple Contact & Support portal and iCloud Contacts application suite. Connect with Apple Support, book Genius Bar appointments, access corporate directories, or manage contacts with authentic Cupertino design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
